@@ -1,0 +1,29 @@
+.loveTime{
+  position: relative;
+  font-size: 90px;
+  text-align: center;
+  color: #a24646;
+  top: 1000px;
+  font-weight: bold;
+  font-family: "Microsoft YaHei";
+
+}
+.words{
+	position: relative;
+	font-size: 50px;
+	color: #f7e0e0;
+	top: 950px;
+	float: left;
+	padding: 0 40px;
+	left: 40px;
+	letter-spacing: 1px;
+}
+.sorry{
+	position: relative;
+	font-size:100px;
+	top: 1200px;
+	font-weight: bold;
+	text-align: center;
+	color: #f7e0e0;
+
+}
